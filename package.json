@@ -1,0 +1,28 @@
+{
+  "name": "nodejs_hapijs_practice",
+  "version": "0.0.0",
+  "description": "practice_app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:navpreetsingh/node_js_practice.git"
+  },
+  "keywords": [
+    "nodejs",
+    "practice"
+  ],
+  "author": "Navpreet Singh",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/navpreetsingh/node_js_practice/issues"
+  },
+  "dependencies": {
+    "good": "^6.5.0",
+    "good-console": "^5.3.1",
+    "hapi": "~13.0.0",
+    "inert": "^3.2.0"
+  }
+}
